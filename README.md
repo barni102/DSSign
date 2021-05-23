@@ -4,6 +4,6 @@
 # Run Command  Example
     Java -jar DSSSign.jar "C:/Users/kovac/x509/test.p12" "test" "C:/Users/kovac/x509/test.pdf" "C:/Users/kovac/x509/test_sign.pdf"
 
-#Requirements
-Java 11 
+# Requirements
+    Java 11 
 
