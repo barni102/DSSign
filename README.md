@@ -9,4 +9,10 @@
 
 # Requirements
     Java 11 
+    
+    
+# Create p12 key with OpenSSL
+    openssl pkcs12 -export -out certificate.p12 -inkey privateKey.key -in certificate.cert -certfile more.cert
+
+    
 
