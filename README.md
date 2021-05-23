@@ -1,5 +1,5 @@
 # Build 
-    find in /out/artifacts/DSSSign_jar/
+    find in:/out/artifacts/DSSSign_jar/
 
 # Run Command
     java -jar DSSSign.jar $p12_key_path $p12_password $Pdf_file_to_sign  $Pdf_save_path
